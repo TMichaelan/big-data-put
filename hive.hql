@@ -24,9 +24,9 @@ CREATE TABLE IF NOT EXISTS regions (
 )
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY '^'
-STORED AS TEXTFILE
+STORED AS TEXTFILE;
+
 LOAD DATA INPATH '${input_dir4}' INTO TABLE regions;
--- LOCATION '${input_dir4}';
 
 CREATE VIEW avg_price_per_manufacturer AS
 SELECT r.state_sign, m.manufacturer, SUM(m.total_sales)/SUM(m.num_cars) AS avg_price
