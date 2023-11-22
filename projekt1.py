@@ -11,8 +11,8 @@ with DAG(
     # TODO Uruchamiając projekt, za każdym razem w konfiguracji uruchomienia Apache Airflow popraw ścieżki w parametrach dags_home i input_dir
     # TODO Zmień poniżej domyślną wartość parametru classic_or_streaming na zgodną z Twoim projektem
     params={
-      "dags_home": Param("/home/michaelan2808/airflow/dags", type="string"),
-      "input_dir": Param("gs://miktar/projekt1/input", type="string"),
+      "dags_home": Param("/home/{ACCOUNT_NAME}/airflow/dags", type="string"),
+      "input_dir": Param("gs://{BUCKET_NAME}/projekt1/input", type="string"),
       "output_mr_dir": Param("/project1/output_mr3", type="string"),
       "output_dir": Param("/project1/output6", type="string"),
       "classic_or_streaming": Param("streaming", enum=["classic", "streaming"]),
