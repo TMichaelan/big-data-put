@@ -1,0 +1,425 @@
+1^orange county^https://orangecounty.craigslist.org^null^CA
+2^monterey bay^https://monterey.craigslist.org^null^CA
+3^visalia-tulare^https://visalia.craigslist.org^null^CA
+4^santa barbara^https://santabarbara.craigslist.org^null^CA
+5^palm springs^https://palmsprings.craigslist.org^null^CA
+6^ventura county^https://ventura.craigslist.org^null^CA
+7^san diego^https://sandiego.craigslist.org^null^CA
+8^susanville^https://susanville.craigslist.org^null^CA
+9^stockton^https://stockton.craigslist.org^null^CA
+10^sacramento^https://sacramento.craigslist.org^null^CA
+11^santa maria^https://santamaria.craigslist.org^null^CA
+12^san luis obispo^https://slo.craigslist.org^null^CA
+13^redding^https://redding.craigslist.org^null^CA
+14^reno / tahoe^https://reno.craigslist.org^null^CA
+15^modesto^https://modesto.craigslist.org^null^CA
+16^SF bay area^https://sfbay.craigslist.org^null^CA
+17^yuba-sutter^https://yubasutter.craigslist.org^null^CA
+18^siskiyou county^https://siskiyou.craigslist.org^null^CA
+19^lewiston / clarkston^https://lewiston.craigslist.org^null^ID
+20^st louis, MO^https://stlouis.craigslist.org^null^IL
+21^western IL^https://quincy.craigslist.org^null^IL
+22^east idaho^https://eastidaho.craigslist.org^null^ID
+23^pullman / moscow^https://pullman.craigslist.org^null^ID
+24^st augustine^https://staugustine.craigslist.org^null^FL
+25^mattoon-charleston^https://mattoon.craigslist.org^null^IL
+26^albany^https://albanyga.craigslist.org^null^GA
+27^decatur^https://decatur.craigslist.org^null^IL
+28^savannah / hinesville^https://savannah.craigslist.org^null^GA
+29^hawaii^https://honolulu.craigslist.org^null^HI
+30^atlanta^https://atlanta.craigslist.org^null^GA
+31^rockford^https://rockford.craigslist.org^null^IL
+32^indianapolis^https://indianapolis.craigslist.org^null^IN
+33^space coast^https://spacecoast.craigslist.org^null^FL
+34^chicago^https://chicago.craigslist.org^null^IL
+35^brunswick^https://brunswick.craigslist.org^null^GA
+36^augusta^https://augusta.craigslist.org^null^GA
+37^northwest GA^https://nwga.craigslist.org^null^GA
+38^twin falls^https://twinfalls.craigslist.org^null^ID
+39^tallahassee^https://tallahassee.craigslist.org^null^FL
+40^macon / warner robins^https://macon.craigslist.org^null^GA
+41^bloomington-normal^https://bn.craigslist.org^null^IL
+42^southern illinois^https://carbondale.craigslist.org^null^IL
+43^evansville^https://evansville.craigslist.org^null^IN
+44^boise^https://boise.craigslist.org^null^ID
+45^south florida^https://miami.craigslist.org^null^FL
+46^spokane / coeur d'alene^https://spokane.craigslist.org^null^ID
+47^columbus^https://columbusga.craigslist.org^null^GA
+48^springfield^https://springfieldil.craigslist.org^null^IL
+49^treasure coast^https://treasure.craigslist.org^null^FL
+50^tampa bay area^https://tampa.craigslist.org^null^FL
+51^athens^https://athensga.craigslist.org^null^GA
+52^champaign urbana^https://chambana.craigslist.org^null^IL
+53^peoria^https://peoria.craigslist.org^null^IL
+54^bloomington^https://bloomington.craigslist.org^null^IN
+55^fort wayne^https://fortwayne.craigslist.org^null^IN
+56^quad cities, IA/IL^https://quadcities.craigslist.org^null^IL
+57^la salle co^https://lasalle.craigslist.org^null^IL
+58^valdosta^https://valdosta.craigslist.org^null^GA
+59^statesboro^https://statesboro.craigslist.org^null^GA
+60^mansfield^https://mansfield.craigslist.org^null^OH
+61^bend^https://bend.craigslist.org^null^OR
+62^east oregon^https://eastoregon.craigslist.org^null^OR
+63^bismarck^https://bismarck.craigslist.org^null^ND
+64^northwest OK^https://enid.craigslist.org^null^OK
+65^northern panhandle^https://wheeling.craigslist.org^null^OH
+66^columbus^https://columbus.craigslist.org^null^OH
+67^syracuse^https://syracuse.craigslist.org^null^NY
+68^rochester^https://rochester.craigslist.org^null^NY
+69^sandusky^https://sandusky.craigslist.org^null^OH
+70^grand forks^https://grandforks.craigslist.org^null^ND
+71^parkersburg-marietta^https://parkersburg.craigslist.org^null^OH
+72^corvallis/albany^https://corvallis.craigslist.org^null^OR
+73^stillwater^https://stillwater.craigslist.org^null^OK
+74^cleveland^https://cleveland.craigslist.org^null^OH
+75^north dakota^https://nd.craigslist.org^null^ND
+76^utica-rome-oneida^https://utica.craigslist.org^null^NY
+77^dayton / springfield^https://dayton.craigslist.org^null^OH
+78^watertown^https://watertown.craigslist.org^null^NY
+79^toledo^https://toledo.craigslist.org^null^OH
+80^lima / findlay^https://limaohio.craigslist.org^null^OH
+81^tulsa^https://tulsa.craigslist.org^null^OK
+82^fort smith, AR^https://fortsmith.craigslist.org^null^OK
+83^new hampshire^https://nh.craigslist.org^null^NH
+84^ashtabula^https://ashtabula.craigslist.org^null^OH
+85^zanesville / cambridge^https://zanesville.craigslist.org^null^OH
+86^tuscarawas co^https://tuscarawas.craigslist.org^null^OH
+87^chillicothe^https://chillicothe.craigslist.org^null^OH
+88^lawton^https://lawton.craigslist.org^null^OK
+89^youngstown^https://youngstown.craigslist.org^null^OH
+90^akron / canton^https://akroncanton.craigslist.org^null^OH
+91^eugene^https://eugene.craigslist.org^null^OR
+92^athens^https://athensohio.craigslist.org^null^OH
+93^texoma^https://texoma.craigslist.org^null^OK
+94^oklahoma city^https://oklahomacity.craigslist.org^null^OK
+95^huntington-ashland^https://huntington.craigslist.org^null^OH
+96^cincinnati^https://cincinnati.craigslist.org^null^OH
+97^twin tiers NY/PA^https://twintiers.craigslist.org^null^NY
+98^moses lake^https://moseslake.craigslist.org^null^WA
+99^wausau^https://wausau.craigslist.org^null^WI
+100^eau claire^https://eauclaire.craigslist.org^null^WI
+101^appleton-oshkosh-FDL^https://appleton.craigslist.org^null^WI
+102^kennewick-pasco-richland^https://kpr.craigslist.org^null^WA
+103^charleston^https://charlestonwv.craigslist.org^null^WV
+104^southern WV^https://swv.craigslist.org^null^WV
+105^green bay^https://greenbay.craigslist.org^null^WI
+106^lewiston / clarkston^https://lewiston.craigslist.org^null^WA
+107^spokane / coeur d'alene^https://spokane.craigslist.org^null^WA
+108^northern WI^https://northernwi.craigslist.org^null^WI
+109^milwaukee^https://milwaukee.craigslist.org^null^WI
+110^west virginia (old)^https://wv.craigslist.org^null^WV
+111^yakima^https://yakima.craigslist.org^null^WA
+112^eastern panhandle^https://martinsburg.craigslist.org^null^WV
+113^janesville^https://janesville.craigslist.org^null^WI
+114^kenosha-racine^https://racine.craigslist.org^null^WI
+115^pullman / moscow^https://pullman.craigslist.org^null^WA
+116^wenatchee^https://wenatchee.craigslist.org^null^WA
+117^wyoming^https://wyoming.craigslist.org^null^WY
+118^morgantown^https://morgantown.craigslist.org^null^WV
+119^olympic peninsula^https://olympic.craigslist.org^null^WA
+120^madison^https://madison.craigslist.org^null^WI
+121^la crosse^https://lacrosse.craigslist.org^null^WI
+122^seattle-tacoma^https://seattle.craigslist.org^null^WA
+123^sheboygan^https://sheboygan.craigslist.org^null^WI
+124^bellingham^https://bellingham.craigslist.org^null^WA
+125^duluth / superior^https://duluth.craigslist.org^null^WI
+126^skagit / island / SJI^https://skagit.craigslist.org^null^WA
+127^hickory / lenoir^https://hickory.craigslist.org^null^NC
+128^jacksonville^https://onslow.craigslist.org^null^NC
+129^greensboro^https://greensboro.craigslist.org^null^NC
+130^lincoln^https://lincoln.craigslist.org^null^NE
+131^wilmington^https://wilmington.craigslist.org^null^NC
+132^finger lakes^https://fingerlakes.craigslist.org^null^NY
+133^chautauqua^https://chautauqua.craigslist.org^null^NY
+134^ithaca^https://ithaca.craigslist.org^null^NY
+135^reno / tahoe^https://reno.craigslist.org^null^NV
+136^eastern NC^https://eastnc.craigslist.org^null^NC
+137^south jersey^https://southjersey.craigslist.org^null^NJ
+138^farmington^https://farmington.craigslist.org^null^NM
+139^clovis / portales^https://clovis.craigslist.org^null^NM
+140^long island^https://longisland.craigslist.org^null^NY
+141^omaha / council bluffs^https://omaha.craigslist.org^null^NE
+142^potsdam-canton-massena^https://potsdam.craigslist.org^null^NY
+143^albany^https://albany.craigslist.org^null^NY
+144^new york city^https://newyork.craigslist.org^null^NY
+145^scottsbluff / panhandle^https://scottsbluff.craigslist.org^null^NE
+146^elko^https://elko.craigslist.org^null^NV
+147^buffalo^https://buffalo.craigslist.org^null^NY
+148^fayetteville^https://fayetteville.craigslist.org^null^NC
+149^raleigh / durham / CH^https://raleigh.craigslist.org^null^NC
+150^elmira-corning^https://elmira.craigslist.org^null^NY
+151^jersey shore^https://jerseyshore.craigslist.org^null^NJ
+152^glens falls^https://glensfalls.craigslist.org^null^NY
+153^las cruces^https://lascruces.craigslist.org^null^NM
+154^plattsburgh-adirondacks^https://plattsburgh.craigslist.org^null^NY
+155^winston-salem^https://winstonsalem.craigslist.org^null^NC
+156^roswell / carlsbad^https://roswell.craigslist.org^null^NM
+157^north platte^https://northplatte.craigslist.org^null^NE
+158^north jersey^https://newjersey.craigslist.org^null^NJ
+159^central NJ^https://cnj.craigslist.org^null^NJ
+160^outer banks^https://outerbanks.craigslist.org^null^NC
+161^las vegas^https://lasvegas.craigslist.org^null^NV
+162^oneonta^https://oneonta.craigslist.org^null^NY
+163^hudson valley^https://hudsonvalley.craigslist.org^null^NY
+164^grand island^https://grandisland.craigslist.org^null^NE
+165^catskills^https://catskills.craigslist.org^null^NY
+166^santa fe / taos^https://santafe.craigslist.org^null^NM
+167^albuquerque^https://albuquerque.craigslist.org^null^NM
+168^binghamton^https://binghamton.craigslist.org^null^NY
+169^dubuque^https://dubuque.craigslist.org^null^IA
+170^richmond^https://richmondin.craigslist.org^null^IN
+171^waterloo / cedar falls^https://waterloo.craigslist.org^null^IA
+172^western maryland^https://westmd.craigslist.org^null^MD
+173^ames^https://ames.craigslist.org^null^IA
+174^wichita^https://wichita.craigslist.org^null^KS
+175^frederick^https://frederick.craigslist.org^null^MD
+176^new orleans^https://neworleans.craigslist.org^null^LA
+177^ann arbor^https://annarbor.craigslist.org^null^MI
+178^baton rouge^https://batonrouge.craigslist.org^null^LA
+179^southwest KS^https://swks.craigslist.org^null^KS
+180^topeka^https://topeka.craigslist.org^null^KS
+181^southeast IA^https://ottumwa.craigslist.org^null^IA
+182^western massachusetts^https://westernmass.craigslist.org^null^MA
+183^salina^https://salina.craigslist.org^null^KS
+184^bowling green^https://bgky.craigslist.org^null^KY
+185^southern maryland^https://smd.craigslist.org^null^MD
+186^baltimore^https://baltimore.craigslist.org^null^MD
+187^muncie / anderson^https://muncie.craigslist.org^null^IN
+188^huntington-ashland^https://huntington.craigslist.org^null^KY
+189^lafayette / west lafayette^https://tippecanoe.craigslist.org^null^IN
+190^boston^https://boston.craigslist.org^null^MA
+191^western KY^https://westky.craigslist.org^null^KY
+192^south coast^https://southcoast.craigslist.org^null^MA
+193^eastern kentucky^https://eastky.craigslist.org^null^KY
+194^southeast KS^https://seks.craigslist.org^null^KS
+195^lawrence^https://lawrence.craigslist.org^null^KS
+196^kansas city, MO^https://kansascity.craigslist.org^null^KS
+197^south bend / michiana^https://southbend.craigslist.org^null^IN
+198^lake charles^https://lakecharles.craigslist.org^null^LA
+199^omaha / council bluffs^https://omaha.craigslist.org^null^IA
+200^mason city^https://masoncity.craigslist.org^null^IA
+201^houma^https://houma.craigslist.org^null^LA
+202^louisville^https://louisville.craigslist.org^null^KY
+203^cumberland valley^https://chambersburg.craigslist.org^null^MD
+204^iowa city^https://iowacity.craigslist.org^null^IA
+205^lexington^https://lexington.craigslist.org^null^KY
+206^des moines^https://desmoines.craigslist.org^null^IA
+207^monroe^https://monroe.craigslist.org^null^LA
+208^maine^https://maine.craigslist.org^null^ME
+209^northwest KS^https://nwks.craigslist.org^null^KS
+210^kokomo^https://kokomo.craigslist.org^null^IN
+211^manhattan^https://ksu.craigslist.org^null^KS
+212^worcester / central MA^https://worcester.craigslist.org^null^MA
+213^sioux city^https://siouxcity.craigslist.org^null^IA
+214^owensboro^https://owensboro.craigslist.org^null^KY
+215^annapolis^https://annapolis.craigslist.org^null^MD
+216^terre haute^https://terrehaute.craigslist.org^null^IN
+217^fort dodge^https://fortdodge.craigslist.org^null^IA
+218^cedar rapids^https://cedarrapids.craigslist.org^null^IA
+219^lafayette^https://lafayette.craigslist.org^null^LA
+220^central louisiana^https://cenla.craigslist.org^null^LA
+221^eastern shore^https://easternshore.craigslist.org^null^MD
+222^cape cod / islands^https://capecod.craigslist.org^null^MA
+223^shreveport^https://shreveport.craigslist.org^null^LA
+224^pittsburgh^https://pittsburgh.craigslist.org^null^PA
+225^lancaster^https://lancaster.craigslist.org^null^PA
+226^salem^https://salem.craigslist.org^null^OR
+227^jackson^https://jacksontn.craigslist.org^null^TN
+228^pierre / central SD^https://csd.craigslist.org^null^SD
+229^erie^https://erie.craigslist.org^null^PA
+230^scranton / wilkes-barre^https://scranton.craigslist.org^null^PA
+231^sioux falls / SE SD^https://siouxfalls.craigslist.org^null^SD
+232^rapid city / west SD^https://rapidcity.craigslist.org^null^SD
+233^knoxville^https://knoxville.craigslist.org^null^TN
+234^medford-ashland^https://medford.craigslist.org^null^OR
+235^roseburg^https://roseburg.craigslist.org^null^OR
+236^florence^https://florencesc.craigslist.org^null^SC
+237^greenville / upstate^https://greenville.craigslist.org^null^SC
+238^northeast SD^https://nesd.craigslist.org^null^SD
+239^poconos^https://poconos.craigslist.org^null^PA
+240^klamath falls^https://klamath.craigslist.org^null^OR
+241^meadville^https://meadville.craigslist.org^null^PA
+242^chattanooga^https://chattanooga.craigslist.org^null^TN
+243^williamsport^https://williamsport.craigslist.org^null^PA
+244^harrisburg^https://harrisburg.craigslist.org^null^PA
+245^reading^https://reading.craigslist.org^null^PA
+246^cumberland valley^https://chambersburg.craigslist.org^null^PA
+247^cookeville^https://cookeville.craigslist.org^null^TN
+248^columbia^https://columbia.craigslist.org^null^SC
+249^oregon coast^https://oregoncoast.craigslist.org^null^OR
+250^myrtle beach^https://myrtlebeach.craigslist.org^null^SC
+251^clarksville^https://clarksville.craigslist.org^null^TN
+252^york^https://york.craigslist.org^null^PA
+253^charleston^https://charleston.craigslist.org^null^SC
+254^portland^https://portland.craigslist.org^null^OR
+255^rhode island^https://providence.craigslist.org^null^RI
+256^south dakota^https://sd.craigslist.org^null^SD
+257^state college^https://pennstate.craigslist.org^null^PA
+258^lehigh valley^https://allentown.craigslist.org^null^PA
+259^hilton head^https://hiltonhead.craigslist.org^null^SC
+260^memphis^https://memphis.craigslist.org^null^TN
+261^altoona-johnstown^https://altoona.craigslist.org^null^PA
+262^philadelphia^https://philadelphia.craigslist.org^null^PA
+263^mankato^https://mankato.craigslist.org^null^MN
+264^fargo / moorhead^https://fargo.craigslist.org^null^MN
+265^kalamazoo^https://kalamazoo.craigslist.org^null^MI
+266^rochester^https://rmn.craigslist.org^null^MN
+267^the thumb^https://thumb.craigslist.org^null^MI
+268^monroe^https://monroemi.craigslist.org^null^MI
+269^brainerd^https://brainerd.craigslist.org^null^MN
+270^kalispell^https://kalispell.craigslist.org^null^MT
+271^springfield^https://springfield.craigslist.org^null^MO
+272^southeast missouri^https://semo.craigslist.org^null^MO
+273^jackson^https://jxn.craigslist.org^null^MI
+274^flint^https://flint.craigslist.org^null^MI
+275^asheville^https://asheville.craigslist.org^null^NC
+276^lansing^https://lansing.craigslist.org^null^MI
+277^holland^https://holland.craigslist.org^null^MI
+278^upper peninsula^https://up.craigslist.org^null^MI
+279^battle creek^https://battlecreek.craigslist.org^null^MI
+280^eastern montana^https://montana.craigslist.org^null^MT
+281^helena^https://helena.craigslist.org^null^MT
+282^billings^https://billings.craigslist.org^null^MT
+283^st louis^https://stlouis.craigslist.org^null^MO
+284^jackson^https://jackson.craigslist.org^null^MS
+285^joplin^https://joplin.craigslist.org^null^MO
+286^bemidji^https://bemidji.craigslist.org^null^MN
+287^port huron^https://porthuron.craigslist.org^null^MI
+288^lake of the ozarks^https://loz.craigslist.org^null^MO
+289^minneapolis / st paul^https://minneapolis.craigslist.org^null^MN
+290^meridian^https://meridian.craigslist.org^null^MS
+291^kansas city^https://kansascity.craigslist.org^null^MO
+292^southwest MN^https://marshall.craigslist.org^null^MN
+293^missoula^https://missoula.craigslist.org^null^MT
+294^hattiesburg^https://hattiesburg.craigslist.org^null^MS
+295^boone^https://boone.craigslist.org^null^NC
+296^duluth / superior^https://duluth.craigslist.org^null^MN
+297^grand rapids^https://grandrapids.craigslist.org^null^MI
+298^gulfport / biloxi^https://gulfport.craigslist.org^null^MS
+299^kirksville^https://kirksville.craigslist.org^null^MO
+300^columbia / jeff city^https://columbiamo.craigslist.org^null^MO
+301^st joseph^https://stjoseph.craigslist.org^null^MO
+302^st cloud^https://stcloud.craigslist.org^null^MN
+303^central michigan^https://centralmich.craigslist.org^null^MI
+304^butte^https://butte.craigslist.org^null^MT
+305^great falls^https://greatfalls.craigslist.org^null^MT
+306^saginaw-midland-baycity^https://saginaw.craigslist.org^null^MI
+307^bozeman^https://bozeman.craigslist.org^null^MT
+308^charlotte^https://charlotte.craigslist.org^null^NC
+309^detroit metro^https://detroit.craigslist.org^null^MI
+310^north mississippi^https://northmiss.craigslist.org^null^MS
+311^southwest MS^https://natchez.craigslist.org^null^MS
+312^muskegon^https://muskegon.craigslist.org^null^MI
+313^southwest michigan^https://swmi.craigslist.org^null^MI
+314^northern michigan^https://nmi.craigslist.org^null^MI
+315^chico^https://chico.craigslist.org^null^CA
+316^hanford-corcoran^https://hanford.craigslist.org^null^CA
+317^inland empire^https://inlandempire.craigslist.org^null^CA
+318^fairbanks^https://fairbanks.craigslist.org^null^AK
+319^imperial county^https://imperial.craigslist.org^null^CA
+320^humboldt county^https://humboldt.craigslist.org^null^CA
+321^kenai peninsula^https://kenai.craigslist.org^null^AK
+322^bakersfield^https://bakersfield.craigslist.org^null^CA
+323^fort smith^https://fortsmith.craigslist.org^null^AR
+324^flagstaff / sedona^https://flagstaff.craigslist.org^null^AZ
+325^huntsville / decatur^https://huntsville.craigslist.org^null^AL
+326^tuscaloosa^https://tuscaloosa.craigslist.org^null^AL
+327^texarkana^https://texarkana.craigslist.org^null^AR
+328^florence / muscle shoals^https://shoals.craigslist.org^null^AL
+329^jonesboro^https://jonesboro.craigslist.org^null^AR
+330^mohave county^https://mohave.craigslist.org^null^AZ
+331^gold country^https://goldcountry.craigslist.org^null^CA
+332^gadsden-anniston^https://gadsden.craigslist.org^null^AL
+333^southeast alaska^https://juneau.craigslist.org^null^AK
+334^auburn^https://auburn.craigslist.org^null^AL
+335^mendocino county^https://mendocino.craigslist.org^null^CA
+336^birmingham^https://bham.craigslist.org^null^AL
+337^phoenix^https://phoenix.craigslist.org^null^AZ
+338^tucson^https://tucson.craigslist.org^null^AZ
+339^montgomery^https://montgomery.craigslist.org^null^AL
+340^fresno / madera^https://fresno.craigslist.org^null^CA
+341^show low^https://showlow.craigslist.org^null^AZ
+342^mobile^https://mobile.craigslist.org^null^AL
+343^sierra vista^https://sierravista.craigslist.org^null^AZ
+344^merced^https://merced.craigslist.org^null^CA
+345^prescott^https://prescott.craigslist.org^null^AZ
+346^fayetteville^https://fayar.craigslist.org^null^AR
+347^little rock^https://littlerock.craigslist.org^null^AR
+348^los angeles^https://losangeles.craigslist.org^null^CA
+349^yuma^https://yuma.craigslist.org^null^AZ
+350^anchorage / mat-su^https://anchorage.craigslist.org^null^AK
+351^dothan^https://dothan.craigslist.org^null^AL
+352^salt lake city^https://saltlakecity.craigslist.org^null^UT
+353^mcallen / edinburg^https://mcallen.craigslist.org^null^TX
+354^killeen / temple / ft hood^https://killeen.craigslist.org^null^TX
+355^deep east texas^https://nacogdoches.craigslist.org^null^TX
+356^san marcos^https://sanmarcos.craigslist.org^null^TX
+357^brownsville^https://brownsville.craigslist.org^null^TX
+358^del rio / eagle pass^https://delrio.craigslist.org^null^TX
+359^houston^https://houston.craigslist.org^null^TX
+360^logan^https://logan.craigslist.org^null^UT
+361^danville^https://danville.craigslist.org^null^VA
+362^eastern shore^https://easternshore.craigslist.org^null^VA
+363^harrisonburg^https://harrisonburg.craigslist.org^null^VA
+364^texarkana^https://texarkana.craigslist.org^null^TX
+365^el paso^https://elpaso.craigslist.org^null^TX
+366^odessa / midland^https://odessa.craigslist.org^null^TX
+367^southwest VA^https://swva.craigslist.org^null^VA
+368^winchester^https://winchester.craigslist.org^null^VA
+369^corpus christi^https://corpuschristi.craigslist.org^null^TX
+370^norfolk / hampton roads^https://norfolk.craigslist.org^null^VA
+371^new river valley^https://blacksburg.craigslist.org^null^VA
+372^austin^https://austin.craigslist.org^null^TX
+373^wichita falls^https://wichitafalls.craigslist.org^null^TX
+374^abilene^https://abilene.craigslist.org^null^TX
+375^beaumont / port arthur^https://beaumont.craigslist.org^null^TX
+376^college station^https://collegestation.craigslist.org^null^TX
+377^southwest TX^https://bigbend.craigslist.org^null^TX
+378^san antonio^https://sanantonio.craigslist.org^null^TX
+379^lynchburg^https://lynchburg.craigslist.org^null^VA
+380^nashville^https://nashville.craigslist.org^null^TN
+381^vermont^https://vermont.craigslist.org^null^VT
+382^tyler / east TX^https://easttexas.craigslist.org^null^TX
+383^victoria^https://victoriatx.craigslist.org^null^TX
+384^amarillo^https://amarillo.craigslist.org^null^TX
+385^galveston^https://galveston.craigslist.org^null^TX
+386^dallas / fort worth^https://dallas.craigslist.org^null^TX
+387^lubbock^https://lubbock.craigslist.org^null^TX
+388^ogden-clearfield^https://ogden.craigslist.org^null^UT
+389^roanoke^https://roanoke.craigslist.org^null^VA
+390^waco^https://waco.craigslist.org^null^TX
+391^charlottesville^https://charlottesville.craigslist.org^null^VA
+392^richmond^https://richmond.craigslist.org^null^VA
+393^st george^https://stgeorge.craigslist.org^null^UT
+394^fredericksburg^https://fredericksburg.craigslist.org^null^VA
+395^provo / orem^https://provo.craigslist.org^null^UT
+396^san angelo^https://sanangelo.craigslist.org^null^TX
+397^tri-cities^https://tricities.craigslist.org^null^TN
+398^laredo^https://laredo.craigslist.org^null^TX
+399^panama city^https://panamacity.craigslist.org^null^FL
+400^boulder^https://boulder.craigslist.org^null^CO
+401^sarasota-bradenton^https://sarasota.craigslist.org^null^FL
+402^heartland florida^https://cfl.craigslist.org^null^FL
+403^high rockies^https://rockies.craigslist.org^null^CO
+404^okaloosa / walton^https://okaloosa.craigslist.org^null^FL
+405^new haven^https://newhaven.craigslist.org^null^CT
+406^pueblo^https://pueblo.craigslist.org^null^CO
+407^hartford^https://hartford.craigslist.org^null^CT
+408^pensacola^https://pensacola.craigslist.org^null^FL
+409^eastern CT^https://newlondon.craigslist.org^null^CT
+410^jacksonville^https://jacksonville.craigslist.org^null^FL
+411^lakeland^https://lakeland.craigslist.org^null^FL
+412^western slope^https://westslope.craigslist.org^null^CO
+413^delaware^https://delaware.craigslist.org^null^DE
+414^orlando^https://orlando.craigslist.org^null^FL
+415^denver^https://denver.craigslist.org^null^CO
+416^ocala^https://ocala.craigslist.org^null^FL
+417^daytona beach^https://daytona.craigslist.org^null^FL
+418^northwest CT^https://nwct.craigslist.org^null^CT
+419^ft myers / SW florida^https://fortmyers.craigslist.org^null^FL
+420^colorado springs^https://cosprings.craigslist.org^null^CO
+421^eastern CO^https://eastco.craigslist.org^null^CO
+422^florida keys^https://keys.craigslist.org^null^FL
+423^north central FL^https://lakecity.craigslist.org^null^FL
+424^fort collins / north CO^https://fortcollins.craigslist.org^null^CO
+425^gainesville^https://gainesville.craigslist.org^null^FL
